@@ -8,7 +8,7 @@
 * Author URI: https://www.mewod.com/
 **/
 
-define('MEWOD_CHAT_VERSION', '0.1');
+define('MEWOD_CHAT_VERSION', '1.0');
 
 // register chat shortcode:
 function mewod_chat_shortcode($atts = [], $content = null, $tag = '') {
