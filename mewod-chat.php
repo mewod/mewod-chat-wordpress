@@ -1,7 +1,6 @@
 <?php
 /**
 * Plugin Name: Mewod Chat
-* Plugin URI: https://www.mewod.com/
 * Description: Mewod Chat is a cool 3D metaverse chat built with WebGL technology, There are 12 free metaverse worlds available now, Mewod provides a new and interesting chat experience, You can also easily embed the chat into your iOS and Android apps with just a few lines of code.
 * Version: 0.1
 * Author: TOPCMM SOFTWARE

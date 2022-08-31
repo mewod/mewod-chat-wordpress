@@ -28,6 +28,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
   - [Check the youtube video introduction of Mewod Chat features](https://www.youtube.com/watch?v=HHu5xdpzI60)
 
+== Online Demo ==
+
+* [Directly enter a world](https://www.mewod.com/index.php/2022/08/31/wordpress-post-demo1)
+* [Display the whole world list](https://www.mewod.com/index.php/2022/08/31/wordpress-post-demo2)
+
 == Installation ==
 
 = Requirements: =
